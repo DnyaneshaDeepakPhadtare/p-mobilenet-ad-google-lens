@@ -1,0 +1,19 @@
+body{
+    font-family: 'Mate SC', serif;
+    background-color:#f0f324;
+    
+    font-size: 30px;
+    
+}
+img{
+    width: 400px;
+    height: 400px;
+    
+}
+
+#result{
+    white-space: pre-line;
+}
+h1{
+    font-size: 50px;
+}
